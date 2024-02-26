@@ -8,7 +8,7 @@
 
 - 🛠️ I’m currently studying **Computing Science**
 
-- 📫 Connect with me: **dysfredorbiso@gmail.com**
+- 📫 Reach me on: **dysfredorbiso@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
