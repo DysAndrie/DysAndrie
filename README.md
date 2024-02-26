@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dysandrie&label=Profile%20views&color=0e75b6&style=flat" alt="dysandrie" /> </p>
 
-- 🛠️ I’m currently studying **Computing Science @ The University of Stirling**
+- 🛠️ I’m currently studying **Computing Science**
 
-- 📫 How to reach me **dysfredorbiso@gmail.com**
+- 📫 Connect with me **dysfredorbiso@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
