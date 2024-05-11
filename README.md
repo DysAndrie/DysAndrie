@@ -1,5 +1,5 @@
 <h1 align="center">🔎 Dysfred Orbiso</h1>
-<h3 align="center">Dedicated Computer Science Student 🐱‍💻</h3>
+<h3 align="center">Computer Science Student 🐱‍💻</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
