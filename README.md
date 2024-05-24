@@ -1,11 +1,13 @@
 <h1 align="center">🔎 Dysfred Orbiso</h1>
-<h3 align="center">Computer Science Student 🐱‍💻</h3>
+<h3 align="center">Computer Science Student</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dysandrie&label=Profile%20views&color=0e75b6&style=flat" alt="dysandrie" /> </p>
 
+- 🌐 Stop by and checkout my portfolio site: https://dysandrie.github.io/dys.io/
+  
 - 🛠️ I’m currently studying **Computing Science**
 
 - 📫 Reach me on: **dysfredorbiso@gmail.com**
